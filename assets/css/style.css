@@ -231,6 +231,15 @@ section {
 }
 /* You stopped at Lesson 5. You have committed and pushed to Git, and are at 1.5.1 */
 
+.contact {
+    text-align: center;
+    background-color: #024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+    
+}
 
 
 
